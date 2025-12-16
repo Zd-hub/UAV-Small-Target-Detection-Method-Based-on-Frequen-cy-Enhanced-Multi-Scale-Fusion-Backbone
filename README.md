@@ -18,3 +18,11 @@ For complex scenarios including low illumination, dense small targets, and targe
 <div align="center">
   <img src="https://github.com/Zd-hub/UAV-Small-Target-Detection-Method-Based-on-Frequen-cy-Enhanced-Multi-Scale-Fusion-Backbone/blob/main/picture/%E7%BB%93%E6%9E%84%E5%9B%BE_12.png" width=800 >
 </div>
+
+## VisDrone-DET dataset
+
+* trainset (1.44 GB): [BaiduYun](https://pan.baidu.com/s/1K-JtLnlHw98UuBDrYJvw3A) | [GoogleDrive](https://drive.google.com/file/d/1a2oHjcEcwXP8oUF95qiwrqzACb2YlUhn/view?usp=sharing)
+    
+* valset (0.07 GB):  [BaiduYun](https://pan.baidu.com/s/1jdK_dAxRJeF2Xi50IoML1g) | [GoogleDrive](https://drive.google.com/file/d/1bxK5zgLn0_L8x276eKkuYA_FzwCIjb59/view?usp=sharing)
+    
+* testset-dev (0.28 GB): [BaiduYun](https://pan.baidu.com/s/1RdRfSWV-1IFK7aWljLU_LQ) | [GoogleDrive](https://drive.google.com/open?id=1PFdW_VFSCfZ_sTSZAGjQdifF_Xd5mf0V) 
