@@ -15,3 +15,6 @@ In addition, shape weight coefficients and scale correlation factors are introdu
 
 ## Performance
 For complex scenarios including low illumination, dense small targets, and target occlusion, the inference results of the proposed model are presented as follows.
+<div align="center">
+  <img src="https://github.com/Zd-hub/UAV-Small-Target-Detection-Method-Based-on-Frequen-cy-Enhanced-Multi-Scale-Fusion-Backbone/blob/main/picture/%E7%BB%93%E6%9E%84%E5%9B%BE_12.png" width=800 >
+</div>
