@@ -6,7 +6,7 @@
 
 ## Experimental Results on the VisDrone-2019-DET Dataset
 
-| ​**Model**​            | ​**Backbone**​         | ​**Input Size**​ | ​**Params (M)**​ | ​**GFLOPs**​ | ​**AP**​  | ​**AP$_{50}$**​ |
+| ​**Model**​            | ​**Backbone**​         | ​**Input Size**​ | ​**Params**​ | ​**GFLOPs**​ | ​**AP**​  | ​**APs**​ |
 |----------------------|---------------------|----------------|----------------|------------|---------|---------------|
 | Model-R18  | ResNet18-Improved            | 640×640        | 20.8          | 79       | ​**27.5**| ​**45.9**​      |
 | Model-R50 | ResNet50-Improved            | 640×640         | 42.9           | 172      | ​**29.4**| ​**47.9**​      |
@@ -15,7 +15,7 @@
 
 ## Experimental Results on UAVVaste Dataset
 
-| ​**Model**​             | ​**Params (M)**​ | ​**GFLOPs**​ | ​**AP**​  | ​**AP$_{50}$**​ |
+| ​**Model**​             | ​**Params**​ | ​**GFLOPs**​ | ​**AP**​  | ​**APs**​ |
 |-----------------------|----------------|------------|---------|---------------|
 | Model-R18    | 20.8           | 79       | 73.1    |    36.2       |
 |Model-R50    | 42.9           |172       | 74.2    | 37.3          |
